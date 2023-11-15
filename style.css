@@ -1,0 +1,74 @@
+* {
+    margin: none;
+}
+body {
+    background-color:#c5c5c5;
+}
+#links {
+    text-decoration: none;
+    color: white;
+}
+#rodape {
+    background-color: #212529;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#lista {
+    text-decoration:none;
+    color: white;
+}
+
+/*css notícia fnaf*/
+#all {
+    display: flex;
+    flex-direction: column;
+    -ms-flex-align: center;
+    background-color: rgba(202, 201, 201, 0.945);
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+#titulo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 46px;
+}
+
+#subtitulo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: -18px;
+    font-size: 40px;
+}
+
+#texto {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 28px;
+}
+#video {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+/*sobre nós css*/
+#p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fundinho {
+    background: rgb(209, 209, 209);
+}
+#divimg {
+    display: flex;
+    justify-content: center;  
+}
+#title {
+    text-align: center;
+}
